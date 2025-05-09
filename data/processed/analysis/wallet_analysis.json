@@ -1,0 +1,339 @@
+{
+  "analysis_timestamp": "2025-05-09 15:46:09",
+  "total_wallets_analyzed": 6276,
+  "score_distribution": {
+    "mean": 20.22917623336092,
+    "median": 13.498175520105352,
+    "std": 10.334562999148236,
+    "min": 1.3205204032798572,
+    "max": 65.14323772874721
+  },
+  "top_performing_wallets": [
+    {
+      "wallet_id": "0x5bdb04e9c760123f40512ee46b672577c0bd4905",
+      "score": 65.14323772874721,
+      "activity_metrics": {
+        "total_deposits": 120,
+        "deposit_consistency": -1.6392507729208703,
+        "unique_assets": 6,
+        "activity_score": 0.55
+      },
+      "value_metrics": {
+        "total_value_usd": 2284423.6160630235,
+        "avg_deposit_usd": 19036.863467191863,
+        "value_consistency": 0.410204652978592,
+        "value_score": 0.7348113958935776
+      },
+      "longevity_metrics": {
+        "timespan_days": 787.8518518518518,
+        "avg_days_between_deposits": 6.565432098765432,
+        "longevity_score": 0.6875390946502058
+      },
+      "asset_usage": {
+        "most_used_asset": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "asset_concentration": 0.2941666666666667
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-01-13",
+        "last_deposit": "2025-03-11",
+        "largest_deposit_usd": 65013.186376,
+        "smallest_deposit_usd": 1696.8985765186972
+      }
+    },
+    {
+      "wallet_id": "0x8888882f8f843896699869179fb6e4f7e3b58888",
+      "score": 60.27142544293548,
+      "activity_metrics": {
+        "total_deposits": 902,
+        "deposit_consistency": -0.5891071413635685,
+        "unique_assets": 7,
+        "activity_score": 0.5750000000000001
+      },
+      "value_metrics": {
+        "total_value_usd": 269204057.0596071,
+        "avg_deposit_usd": 298452.3914186331,
+        "value_consistency": -2.8170464925473486,
+        "value_score": 0.6276684972050285
+      },
+      "longevity_metrics": {
+        "timespan_days": 557.0488888888889,
+        "avg_days_between_deposits": 0.617570830253757,
+        "longevity_score": 0.6082342777367168
+      },
+      "asset_usage": {
+        "most_used_asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "asset_concentration": 0.2411050093165717
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-01-13",
+        "last_deposit": "2024-07-23",
+        "largest_deposit_usd": 17533417.31001624,
+        "smallest_deposit_usd": 9.999e-13
+      }
+    },
+    {
+      "wallet_id": "0xc563fe25355e97ebe2932912d9f3ca9da109478a",
+      "score": 59.19134491050362,
+      "activity_metrics": {
+        "total_deposits": 101,
+        "deposit_consistency": -0.3143520907552042,
+        "unique_assets": 5,
+        "activity_score": 0.525
+      },
+      "value_metrics": {
+        "total_value_usd": 14101.455650198815,
+        "avg_deposit_usd": 139.6183727742457,
+        "value_consistency": 0.1735396949298359,
+        "value_score": 0.6285740151351609
+      },
+      "longevity_metrics": {
+        "timespan_days": 397.0755555555556,
+        "avg_days_between_deposits": 3.931441144114412,
+        "longevity_score": 0.6524192152548588
+      },
+      "asset_usage": {
+        "most_used_asset": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "asset_concentration": 0.4116263111459661
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-01-13",
+        "last_deposit": "2024-02-15",
+        "largest_deposit_usd": 997.100619,
+        "smallest_deposit_usd": 22.69821336
+      }
+    },
+    {
+      "wallet_id": "0x30030383d959675ec884e7ec88f05ee0f186cc06",
+      "score": 59.18805538898605,
+      "activity_metrics": {
+        "total_deposits": 15,
+        "deposit_consistency": 0.4325699910751508,
+        "unique_assets": 3,
+        "activity_score": 0.2647709973225452
+      },
+      "value_metrics": {
+        "total_value_usd": 190973.7125576925,
+        "avg_deposit_usd": 12731.5808371795,
+        "value_consistency": 0.6258579442895988,
+        "value_score": 0.737090716620213
+      },
+      "longevity_metrics": {
+        "timespan_days": 400.1392592592592,
+        "avg_days_between_deposits": 26.67595061728395,
+        "longevity_score": 0.955679341563786
+      },
+      "asset_usage": {
+        "most_used_asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "asset_concentration": 0.5022222222222222
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-02-03",
+        "last_deposit": "2024-03-09",
+        "largest_deposit_usd": 23466.868696,
+        "smallest_deposit_usd": 5613.519572
+      }
+    },
+    {
+      "wallet_id": "0x4201a38615ec7d1f57df6143e7a7ed82dd7a8ee4",
+      "score": 58.59185182811397,
+      "activity_metrics": {
+        "total_deposits": 158,
+        "deposit_consistency": -0.5529385477301241,
+        "unique_assets": 5,
+        "activity_score": 0.525
+      },
+      "value_metrics": {
+        "total_value_usd": 2111901.818259499,
+        "avg_deposit_usd": 13366.467204174043,
+        "value_consistency": -0.5403705983038525,
+        "value_score": 0.6079474443198205
+      },
+      "longevity_metrics": {
+        "timespan_days": 754.8177777777778,
+        "avg_days_between_deposits": 4.7773277074542895,
+        "longevity_score": 0.6636977027660572
+      },
+      "asset_usage": {
+        "most_used_asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "asset_concentration": 0.3068418522672648
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-01-13",
+        "last_deposit": "2025-02-06",
+        "largest_deposit_usd": 220000.0,
+        "smallest_deposit_usd": 1.0
+      }
+    }
+  ],
+  "bottom_performing_wallets": [
+    {
+      "wallet_id": "0x856f21f7c554a09e4aac221755738372315396ea",
+      "score": 1.339082393426977,
+      "activity_metrics": {
+        "total_deposits": 2,
+        "deposit_consistency": 0.0,
+        "unique_assets": 1,
+        "activity_score": 0.033
+      },
+      "value_metrics": {
+        "total_value_usd": 11.464801320576973,
+        "avg_deposit_usd": 5.732400660288486,
+        "value_consistency": -0.269900152920717,
+        "value_score": 0.000458592052823
+      },
+      "longevity_metrics": {
+        "timespan_days": 0.0044444444444444,
+        "avg_days_between_deposits": 0.0022222222222222,
+        "longevity_score": 3.693556570268899e-05
+      },
+      "asset_usage": {
+        "most_used_asset": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "asset_concentration": 1.0
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-01-20",
+        "last_deposit": "2023-01-20",
+        "largest_deposit_usd": 10.87983855,
+        "smallest_deposit_usd": 0.5849627705769713
+      }
+    },
+    {
+      "wallet_id": "0xf2348012d9d4326cb5de4dad02e9a343a19440b4",
+      "score": 1.3387857659082731,
+      "activity_metrics": {
+        "total_deposits": 2,
+        "deposit_consistency": 0.0,
+        "unique_assets": 1,
+        "activity_score": 0.033
+      },
+      "value_metrics": {
+        "total_value_usd": 3.738397790421333,
+        "avg_deposit_usd": 1.8691988952106664,
+        "value_consistency": -0.4002067641096019,
+        "value_score": 0.0001495359116168
+      },
+      "longevity_metrics": {
+        "timespan_days": 0.077037037037037,
+        "avg_days_between_deposits": 0.0385185185185185,
+        "longevity_score": 0.0006402164721799
+      },
+      "asset_usage": {
+        "most_used_asset": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "asset_concentration": 1.0
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-05-13",
+        "last_deposit": "2023-05-13",
+        "largest_deposit_usd": 3.71988468,
+        "smallest_deposit_usd": 0.0185131104213333
+      }
+    },
+    {
+      "wallet_id": "0x5f1bf06ba6aeb4396f04745121f6c420bfa2a588",
+      "score": 1.3354690816,
+      "activity_metrics": {
+        "total_deposits": 2,
+        "deposit_consistency": 0.0,
+        "unique_assets": 1,
+        "activity_score": 0.033
+      },
+      "value_metrics": {
+        "total_value_usd": 9.668176,
+        "avg_deposit_usd": 4.834088,
+        "value_consistency": -0.3637059351454843,
+        "value_score": 0.00038672704
+      },
+      "longevity_metrics": {
+        "timespan_days": 0.0,
+        "avg_days_between_deposits": 0.0,
+        "longevity_score": 0.0
+      },
+      "asset_usage": {
+        "most_used_asset": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "asset_concentration": 1.0
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-06-18",
+        "last_deposit": "2023-06-18",
+        "largest_deposit_usd": 9.49553,
+        "smallest_deposit_usd": 0.172646
+      }
+    },
+    {
+      "wallet_id": "0x3d9a23243cabcc35f3f3061574170c2c9ea2cca9",
+      "score": 1.3246056007846847,
+      "activity_metrics": {
+        "total_deposits": 2,
+        "deposit_consistency": 0.0,
+        "unique_assets": 1,
+        "activity_score": 0.033
+      },
+      "value_metrics": {
+        "total_value_usd": 2.7246023,
+        "avg_deposit_usd": 1.36230115,
+        "value_consistency": -0.4142135623730949,
+        "value_score": 0.000108984092
+      },
+      "longevity_metrics": {
+        "timespan_days": 0.0014814814814814,
+        "avg_days_between_deposits": 0.0007407407407407,
+        "longevity_score": 1.2311855234229664e-05
+      },
+      "asset_usage": {
+        "most_used_asset": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "asset_concentration": 1.0
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2025-02-19",
+        "last_deposit": "2025-02-19",
+        "largest_deposit_usd": 2.7246023,
+        "smallest_deposit_usd": 0.0
+      }
+    },
+    {
+      "wallet_id": "0x762a91ab7615e306547e2dd1385693dacb0809f5",
+      "score": 1.3205204032798572,
+      "activity_metrics": {
+        "total_deposits": 2,
+        "deposit_consistency": 0.0,
+        "unique_assets": 1,
+        "activity_score": 0.033
+      },
+      "value_metrics": {
+        "total_value_usd": 0.017455669054945,
+        "avg_deposit_usd": 0.0087278345274725,
+        "value_consistency": -0.4141852783846875,
+        "value_score": 6.982267621978e-07
+      },
+      "longevity_metrics": {
+        "timespan_days": 0.0029629629629629,
+        "avg_days_between_deposits": 0.0014814814814814,
+        "longevity_score": 2.4623710468459327e-05
+      },
+      "asset_usage": {
+        "most_used_asset": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "asset_concentration": 1.0
+      },
+      "behavioral_patterns": {
+        "first_deposit": "2023-06-14",
+        "last_deposit": "2023-06-14",
+        "largest_deposit_usd": 0.0174554945,
+        "smallest_deposit_usd": 1.74554945e-07
+      }
+    }
+  ],
+  "key_findings": {
+    "top_wallets": {
+      "avg_score": 60.47718305985726,
+      "avg_deposits": 259.2,
+      "avg_value_usd": 54761091.53242749,
+      "avg_assets": 5.2
+    },
+    "bottom_wallets": {
+      "avg_score": 1.3316926489999585,
+      "avg_deposits": 2.0,
+      "avg_value_usd": 5.522686616010651,
+      "avg_assets": 1.0
+    }
+  }
+}
